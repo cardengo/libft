@@ -1,4 +1,4 @@
 ## libft
 
 ### Description:
-Recoded standard C library
+Some standard C functions
